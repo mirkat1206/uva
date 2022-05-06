@@ -1,4 +1,4 @@
-// Digit Counting 
+// 1225 Digit Counting 
 #include <iostream>
 
 int main()
